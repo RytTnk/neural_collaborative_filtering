@@ -1,0 +1,2 @@
+pretraining.h5
+so code in hyperparameter
